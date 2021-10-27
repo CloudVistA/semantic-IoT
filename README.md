@@ -1,5 +1,4 @@
 # open medical IoT
-Mobile-first Open source medical IoT
 
 Medical Internet of Things (mIoT) is an open-source mobile-first event-oriented architecture for medical device data streaming from the bedside to the cloud. This is comprised of (1) device data acquisition and management at the edge and (2) push-based synchronization and integrate to centralized cloud storage for online analytics.
 
