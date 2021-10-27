@@ -1,12 +1,13 @@
 # open medical IoT
-Open source medical IoT
+Mobile-first Open source medical IoT
 
-Open Medical Internet of Things (IoT) is an open-source event-oriented architecture for medical device data streaming from the bedside to the cloud. This is comprised of (1) offline medical device data acquisition, storage, management, and display on the edge and (2) online push-based synchronization and federation to centralized cloud storage.
+Medical Internet of Things (mIoT) is an open-source mobile-first event-oriented architecture for medical device data streaming from the bedside to the cloud. This is comprised of (1) device data acquisition and management at the edge and (2) push-based synchronization and integrate to centralized cloud storage for online analytics.
+
 
 ### Design
-* Consumer-grade  hardware, interfaces, operating systems, protocols, databases, and standards
+* Consumer-grade commodity hardware, interfaces, operating systems, protocols, databases, and standards
 * Commmodity open-source hardware  (Beaglebox, Arduino, ...)
-* Industry-standard ports  (USB-C interface)
+* Industry-standard mobile-first ports  (USB-C)
 * Linux-based open-source real-time OS (OpenRTOS, FreeRTOS,..)
 * Web-standard APIs (REST / JSON)
 * Web-standard streaming protocols (RabbitMQ,..)
