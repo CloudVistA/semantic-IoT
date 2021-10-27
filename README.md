@@ -1,7 +1,7 @@
 # open medical IoT
 Open source medical IoT
 
-Open Medical Internet of Things (IoT) provides an open-source approach for medical device data translation and streaming from the bedside to the cloud.  This will provide (1) high-reliability offline data acquisition and storage on the edge and (2) online push-based synchronization and federation to centralized cloud storage.
+Open Medical Internet of Things (IoT) is an open-source event-oriented architecture for medical device data streaming from the bedside to the cloud. This is comprised of (1) offline medical device data acquisition, storage, management, and display on the edge and (2) online push-based synchronization and federation to centralized cloud storage.
 
 ### Design
 * Consumer-grade  hardware, interfaces, operating systems, protocols, databases, and standards
