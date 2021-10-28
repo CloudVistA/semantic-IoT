@@ -1,6 +1,6 @@
-# open medical IoT
+# Medical IoT Project
 
-Open medical Internet of Things (mIoT) is an architecture for medical device data streaming from the bedside to the cloud. This is comprised of (1) device data acquisition and management at the edge with commodity hardware and (2) push-based synchronization and integrate to centralized cloud storage for online analytics. This design will evolve as discovery proceeds.
+Internet of medical Things (IoT) Project is an architecture for medical device data streaming from the bedside to the cloud. This is comprised of (1) device data acquisition and management at the edge with commodity open source hardware and (2) push-based synchronization and integrate to centralized cloud storage for online analytics. This design will evolve as discovery proceeds.
 
 
 ### Design Overview
