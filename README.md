@@ -1,15 +1,16 @@
-# Medical IoT Project
+# open IoT
 
-The Medical Internet of Things (IoT) Project is an architecture for medical device data streaming from the bedside to the cloud. 
-This is comprised of:
-1. Device data acquisition and management at the edge with commodity open source hardware and 
-2. Push-based synchronization and integrate to centralized cloud storage for online analytics. 
+Open Internet of Things (IoT) provides an open standards based approach for medical device data translation and streaming from the bedside to the cloud.  This will provide (1) high-reliability offline data acquisition and storage on the edge and (2) online push-based synchronization and federation to centralized cloud storage.
 
-### Design Overview
-* Consumer-grade commodity hardware, interfaces, operating systems, protocols, databases, and standards
-* Commmodity open-source hardware  (Beaglebox, Arduino, RaspberryPi ...)
-* Industry-standard mobile-first ports  (USB-C)
-* Linux-based open-source real-time OS (OpenRTOS, FreeRTOS,...)
+* https://en.wikipedia.org/wiki/Internet_of_things
+
+
+
+### Design
+* Consumer-grade  hardware, interfaces, operating systems, protocols, databases, and standards
+* Commmodity open-source hardware  (Beaglebox, Arduino, ...)
+* Industry-standard ports  (USB-C interface)
+* Linux-based open-source real-time OS (OpenRTOS, FreeRTOS,..)
 * Web-standard APIs (REST / JSON)
 * Web-standard streaming protocols (RabbitMQ,..)
 * Open-source real-time integrated edge-to-cloud database (YottaDB,...)
@@ -17,3 +18,25 @@ This is comprised of:
 ### Device Drivers
 * Device drivers and microservices written in compiled machine level languages (C, C++, Go, Rust)
 * Auto-detection of device and download of necessary driver when plugged in
+
+
+## Semantic Sensor Web / Semantic Sensor Network
+* https://www.w3.org/TR/vocab-ssn/
+* https://en.wikipedia.org/wiki/Observations_and_Measurements
+* https://en.wikipedia.org/wiki/Semantic_Sensor_Web
+* https://en.wikipedia.org/wiki/Sensor_web
+* https://en.wikipedia.org/wiki/SensorML
+* https://en.wikipedia.org/wiki/Smart_transducer
+
+
+
+
+# Cloud Computing
+* https://en.wikipedia.org/wiki/Cloudlet
+* https://en.wikipedia.org/wiki/Fog_computing
+* https://en.wikipedia.org/wiki/Edge_data_integration
+* https://en.wikipedia.org/wiki/Cloud_computing#Service_models
+* https://en.wikipedia.org/wiki/Cloud_computing
+
+
+
