@@ -1,6 +1,6 @@
-# open medical IoT
+# Semantic IoT
 
-Open Medical Internet of Things (IoT) provides an open standards based approach for medical device data translation and streaming from the bedside to the cloud.  This will provide (1) high-reliability offline data acquisition and storage on the edge and (2) online push-based synchronization and federation to centralized cloud storage.
+Semantic Internet of Things (IoT) provides a modern semantic web standards-based approach for (medical) device data translation and streaming from the bedside to the cloud.  This will provide (1) high-reliability offline data acquisition and storage on the edge and (2) online push-based synchronization and federation to centralized cloud storage (3) semantic alignment and computability of data at web scale.
 
 * https://en.wikipedia.org/wiki/Internet_of_things
 
